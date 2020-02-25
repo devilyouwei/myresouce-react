@@ -1,0 +1,31 @@
+.title {
+    text-align: center;
+    font-size: 0.5rem;
+    font-weight: normal;
+    letter-spacing: -1px;
+    padding: 0.6em 0;
+    margin: 0;
+}
+.logo {
+    color: #53d9ff;
+    font-weight: bold;
+    font-size: 0.8rem;
+    display: inline-block;
+}
+.logo:hover {
+    cursor: pointer;
+}
+.google span:nth-child(2),
+.google span:nth-child(5) {
+    color: #4081ed;
+}
+.google span:nth-child(3),
+.google span:nth-child(7) {
+    color: #e44b32;
+}
+.google span:nth-child(4) {
+    color: #f4b805;
+}
+.google span:nth-child(6) {
+    color: #59a857;
+}
